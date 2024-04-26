@@ -4,5 +4,4 @@
 - 🛠️ Current projects:
   - TTTExtreme website & app
   - Svelte Website for (EL-Websolutions.com)
-  - TALL stack + Filament Website for a school project
-- 📫 You can reach me on: Instagram>Egbert.L, Reddit>/user/_EggBird_, LinkedIn>/in/egbert-ludema-a7404b170/
+  - TALL stack + Filament Website for a school project(Steunpunt-Friesland)
