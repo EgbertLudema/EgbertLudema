@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EgbertLudema
-- 👀 I’m interested in JS Frameworks, Web & App Dev, API's and PHP.
-- 🌱 I’m currently learning Javascript, REACT & Svelte
+- 👀 I’m interested in JS Frameworks, Web & App Dev, API's, Databases and PHP.
+- 💻 Currently my main focus is on React native
 - 🛠️ Current projects:
-  - TTTExtreme website & app
-  - Svelte Website for (EL-Websolutions.com)
-  - TALL stack + Filament Website for a school project(Steunpunt-Friesland)
+  - 🕹️ TTTXtreme website & app
+  - 🌐 Svelte Website for (EL-Websolutions.com)
