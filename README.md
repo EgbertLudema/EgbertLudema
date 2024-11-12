@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EgbertLudema
-- 👀 I’m interested in JS Frameworks, Web & App Dev, API's, Databases and PHP.
+- 👀 I’m interested in both front-end and back-end!
 - 💻 Currently my main focus is on Javascript & Kotlin
 - 🛠️ Current projects:
   - 🕹️ TTTXtreme website & app
+  - 🧑🏻‍💻Portfolio website using 11ty
   - 🌐 Svelte Website for (EL-Websolutions.com)
   - 🎲 DICE customized woocommerce webshop(custom plugins)
