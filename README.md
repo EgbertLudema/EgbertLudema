@@ -2,7 +2,7 @@
 - 👀 I’m interested in both front-end and back-end!
 - 💻 Currently my main focus is on Javascript & Kotlin
 - 🛠️ Current projects:
-  - 🕹️ TTTXtreme website & app
-  - 🧑🏻‍💻Portfolio website using 11ty
-  - 🌐 Svelte Website for (EL-Websolutions.com)
-  - 🎲 DICE customized woocommerce webshop(custom plugins)
+  - 🕹️ TTTXtreme website & app(Private)
+  - 🧑🏻‍💻[Portfolio website](https://github.com/EgbertLudema/EgbertLudema-portfolio) using 11ty(Public)
+  - 🌐 Svelte Website for (EL-Websolutions.com)(Private)
+  - 🎲 DICE customized woocommerce webshop(custom plugins)(Private)
