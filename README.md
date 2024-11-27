@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EgbertLudema
-- 👀 I’m interested in both front-end and back-end!
+- 😃 I’m a fullstack developer
 - 💻 Currently my main focus is on Javascript & Kotlin
 - 🛠️ Current projects:
-  - 🕹️ TTTXtreme website & app(Private)
+  - 📱 TTTXtreme website & app(Private)
   - 🧑🏻‍💻[Portfolio website](https://github.com/EgbertLudema/EgbertLudema-portfolio) using 11ty(Public)
   - 🌐 Svelte Website for (EL-Websolutions.com)(Private)
   - 🎲 DICE customized woocommerce webshop(custom plugins)(Private)
