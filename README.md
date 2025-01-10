@@ -4,5 +4,5 @@
 - 🛠️ Current projects:
   - 📱 TTTXtreme app for android(Private)
   - 🧑🏻‍💻[Portfolio website](https://github.com/EgbertLudema/EgbertLudema-portfolio) using [11ty](https://www.11ty.dev/), (Public)
-  - 🌐 [Svelte](https://svelte.dev/) Website for [EL Websolutions](EL-Websolutions.com), (Private)
+  - 🌐 [Svelte](https://svelte.dev/) Website for [EL Websolutions](https://EL-Websolutions.com), (Private)
   - 🎲 DICE customized woocommerce webshop(custom plugins) for [DICE Label](https://dicelabel.com/), (Private)
