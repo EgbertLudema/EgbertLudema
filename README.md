@@ -3,6 +3,6 @@
 - 💻 Currently my main focus is on Javascript & Kotlin
 - 🛠️ Current projects:
   - 📱 TTTXtreme app for android(Private)
-  - 🧑🏻‍💻[Portfolio website](https://github.com/EgbertLudema/EgbertLudema-portfolio){:target="_blank"} using [11ty](https://www.11ty.dev/){:target="_blank"}, (Public)
-  - 🌐 [Svelte](https://svelte.dev/){:target="_blank"} Website for [EL Websolutions](https://EL-Websolutions.com){:target="_blank"}, (Private)
-  - 🎲 DICE customized woocommerce webshop(custom plugins) for [DICE Label](https://dicelabel.com/){:target="_blank"}, (Private)
+  - 🧑🏻‍💻[Portfolio website](https://github.com/EgbertLudema/EgbertLudema-portfolio) using [11ty](https://www.11ty.dev/), (Public)
+  - 🌐 [Svelte](https://svelte.dev/) website for [EL Websolutions](https://EL-Websolutions.com), (Private)
+  - 🎲 DICE customized woocommerce webshop(custom plugins) for [DICE Label](https://dicelabel.com/), (Private)
