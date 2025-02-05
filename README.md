@@ -2,7 +2,8 @@
 - 😃 I’m a fullstack developer
 - 💻 Currently my main focus is on Javascript & Kotlin
 - 🛠️ Current projects:
-  - 📱 TTTXtreme app for android(Private)
-  - 🧑🏻‍💻[Portfolio website](https://github.com/EgbertLudema/EgbertLudema-portfolio) using [11ty](https://www.11ty.dev/), (Public)
-  - 🌐 [Svelte](https://svelte.dev/) website for [EL Websolutions](https://EL-Websolutions.com), (Private)
-  - 🎲 DICE customized woocommerce webshop(custom plugins) for [DICE Label](https://dicelabel.com/), (Private)
+  - 📱 TTTXtreme app for android(🔒)
+  - 🧑🏻‍💻 Upgrading my current [11ty portfolio](https://github.com/EgbertLudema/EgbertLudema-portfolio) to [react](https://react.dev/), applying the [motion.dev](https://motion.dev/) library, (🔓)
+  - 🌐 [Svelte](https://svelte.dev/) website for [EL Websolutions](https://EL-Websolutions.com), (🔒)
+  - 🎲 DICE customized woocommerce webshop(custom plugins) for [DICE Label](https://dicelabel.com/), (🔒)
+  - 🛒 Creating a [Magento 2](https://business.adobe.com/products/magento/magento-commerce.html) template for my internship assignment at [Webwijs](https://www.webwijs.nu/), (🔒)
