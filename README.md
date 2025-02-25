@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EgbertLudema
 - 😃 I’m a fullstack developer
+- 🏢 Following a internship at [Webwijs](https://www.webwijs.nu/)
 - 💻 Currently my main focus is on Javascript & Kotlin
 - 🛠️ Current projects:
   - 📱 TTTXtreme app for android(🔒)
