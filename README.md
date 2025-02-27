@@ -8,3 +8,4 @@
   - 🌐 [Svelte](https://svelte.dev/) website for [EL Websolutions](https://EL-Websolutions.com), (🔒)
   - 🎲 DICE customized woocommerce webshop(custom plugins) for [DICE Label](https://dicelabel.com/), (🔒)
   - 🛒 Creating a [Magento 2](https://business.adobe.com/products/magento/magento-commerce.html) template for my internship assignment at [Webwijs](https://www.webwijs.nu/), (🔒)
+  - 🌐 Creating a global search & replace [wordpress](https://wordpress.com/) plugin for [Webwijs](https://www.webwijs.nu/), (🔒)
