@@ -16,5 +16,5 @@
 - 🧑🏻‍💻 Personal Portfolio [11ty portfolio](https://github.com/EgbertLudema/EgbertLudema-portfolio), (🔓)
 - 🎄 [Christmas Calendar](https://github.com/EgbertLudema/christmas_calendar) 2024, (🔓)
 - 💻 Admin dashboard for [Steunpunt Friesland](https://steunpuntzorgenonderwijs.frl/), using [Laraval](https://laravel.com/) combined with [Filament](https://filamentphp.com/), (🔒)
-- 🌐 A global search & replace [Wordpress](https://wordpress.com/) plugin as part of my intership assignments at [Webwijs](https://www.webwijs.nu/), (🔒)
+- 🌐 A global search & replace [Wordpress](https://wordpress.com/) plugin as part of my intership assignments at [Webwijs](https://www.webwijs.nu/), (🔓)
 - 🛒 A [Magento 2](https://business.adobe.com/products/magento/magento-commerce.html) blank webshop using the [Hyvä](https://www.hyva.io/) theme, optimized for CRO, as part of my internship assignments at [Webwijs](https://www.webwijs.nu/), (🔒)
