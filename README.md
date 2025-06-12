@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgbertLudema
 - 😃 I’m a fullstack developer
-- 💼 I'm a entrepreneur, [EL Websolutions](https://www.el-websolutions.com/)
+- 💼 I'm a freelancer, [EL Websolutions](https://www.el-websolutions.com/)
 - 👨🏻‍🎓 Student at NHL Stenden, Leeuwarden
 - 🏢 Following a internship at [Webwijs](https://www.webwijs.nu/)
 
