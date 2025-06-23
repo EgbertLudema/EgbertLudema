@@ -7,7 +7,7 @@
 
 - 📱 TTTXtreme app for android, using Jetpack Compose, (🔒)
 - 🎲 A Wordpress, Woocommerce headless Next.JS webshop, (🔒)
-- 🌐 For a client I'm creating a Headless [Wordpress](https://wordpress.com/) portfolio website using [NextJS](https://nextjs.org/) as front-end and connecting Wordpress with [GraphQL](https://graphql.org/), (🔒)
+- 🌐 Next.JS with Payload CMS portfolio website for my Girlfriend, (🔓)
 
 ## ✅ Finished projects
 
