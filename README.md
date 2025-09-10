@@ -6,8 +6,7 @@
 ## 🛠️ Current projects:
 
 - 📱 TTTXtreme app for android, using Jetpack Compose, (🔒)
-- 🎲 A Wordpress, Woocommerce headless Next.JS webshop, (🔒)
-- 🌐 Next.JS with Payload CMS portfolio website for my Girlfriend, (🔓)
+- 🎲 A custom shopify webshop (🔒)
 
 ## ✅ Finished projects
 
