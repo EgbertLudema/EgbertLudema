@@ -7,6 +7,7 @@
 
 - 📱 TTTXtreme app for android, using Jetpack Compose, (🔒)
 - 🎲 A custom shopify webshop (🔒)
+- 🖼️ A 3D Photo grid web app using Three.js and Payload CMS, (🔒)
 
 ## ✅ Finished projects
 
