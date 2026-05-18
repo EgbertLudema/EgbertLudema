@@ -5,7 +5,7 @@
 
 ## 🛠️ Current projects:
 
-- 🖼️ A memory vault, using Next.JS, Three.JS & Tailwind, (🔓)
+- 🖼️ [Memory Vault](https://www.memory-vault.app/), using Next.JS, Three.JS & Tailwind, (🔓)
 - 📱 TTTXtreme app for android, using Jetpack Compose, (🔒)
 
 ## ✅ Finished projects
