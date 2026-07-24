@@ -5,15 +5,19 @@
 
 ## 🛠️ Current projects:
 
-- 🖼️ [Memory Vault](https://www.memory-vault.app/), using Next.JS, Three.JS & Tailwind, (🔓)
-- 📱 TTTXtreme app for android, using Jetpack Compose, (🔒)
+- ⚫ [TheDotStudio](https://thedotstud.io/), lead dashboard + website, (🔒)
+
+## Active projects
+
+- 🖼️ [Memory Vault](https://www.memory-vault.app/), (🔓)
+  - further development
+  - SEO (blogs, backlinks, etc.)
+- 🎲 [DICELabel](https://dicelabel.com/), (🔒)
 
 ## ✅ Finished projects
 
-- 🎲 A custom shopify webshop, custom theme + setup (🔒)
 - 🌐 [Next.js](https://nextjs.org/) website for [EL Websolutions](https://github.com/EgbertLudema/EL-Websolutions-React), (🔓)
 - 🧑🏻‍💻 Personal Portfolio [11ty portfolio](https://github.com/EgbertLudema/EgbertLudema-portfolio), (🔓)
-- 🎄 [Christmas Calendar](https://github.com/EgbertLudema/christmas_calendar) 2024, (🔓)
 - 💻 Admin dashboard for [Steunpunt Friesland](https://steunpuntzorgenonderwijs.frl/), using [Laraval](https://laravel.com/) combined with [Filament](https://filamentphp.com/), (🔒)
 - 🌐 A global search & replace [Wordpress](https://wordpress.com/) plugin, (🔓)
 - 🛒 A [Magento 2](https://business.adobe.com/products/magento/magento-commerce.html) blank webshop using the [Hyvä](https://www.hyva.io/) theme, optimized for CRO, (🔒)
